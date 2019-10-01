@@ -5,8 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class Author extends Person {
-
+public class Author extends Person
     private List<String> books;
 
     public Author(String firstName, String lastName) {
